@@ -1,0 +1,19 @@
+{
+  "name": "maruchi",
+  "version": "1.0.0",
+  "description": "Maruchi/マルチ Is a discord multi tool including Ritchi!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JectaIne/Maruchi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/JectaIne/Maruchi",
+  "dependencies": {
+    "center-align": "^1.0.1",
+    "colors": "^1.4.0",
+    "console-title": "^1.1.0"
+  }
+}
